@@ -78,6 +78,9 @@ CyberSec-Networking-2026-Summer-Research-Internship/
 └── README.md
 ```
 Media Materials (You could also download the raw files from Publications and Media folder):
+
 [Download Interview Video](https://github.com/cadenkelly-lang/CyberSec-Networking-2026-Summer-Research-Internship/raw/refs/heads/main/Publications%20and%20Media/Interview.mp4)
+
 Article: PDF in the Folder which you can view. I will upload a link to the full article once they publish it, after my internship
+
 End of year presentation: They will post it on Youtube. If it is a public video, I will place it here in the same manner I did for the interview video
