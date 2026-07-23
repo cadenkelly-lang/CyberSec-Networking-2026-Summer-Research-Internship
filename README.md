@@ -72,6 +72,7 @@ CyberSec-Networking-2026-Summer-Research-Internship/
 ├── Meetings/                              # Mostly orientation notes and some notes John made for my feedback after a demo-run of a module early on
 ├── Module Slides and PDFs/                # Training slide decks and reference PDFs
 ├── Project Technical Notes/               # Technical documentation and research notes
+├── Publications and Media/                # Interview, Article, and End of Year Presentation; Their posted article and the EOY presentation still need to be added
 ├── .gitignore
 ├── LICENSE
 └── README.md
