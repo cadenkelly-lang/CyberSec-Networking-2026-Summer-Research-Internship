@@ -77,9 +77,9 @@ CyberSec-Networking-2026-Summer-Research-Internship/
 │   └── Training Module 2 Diagrams/
 │       └── ...
 │
-├── Publications and Media/
+├── Publications and Media/ ** I'll add the article, end of summer YT link, and the Interview with Amanda here
 │
-├── Training Materials/
+├── Training Materials/ ** This section needs to be added and changed; placeholder but I'll prob just have the modules in a pdf and pptx form
 │   │
 │   ├── Module 1/
 │   │   ├── Instructor Notes/
@@ -94,10 +94,10 @@ CyberSec-Networking-2026-Summer-Research-Internship/
 ├── Meetings/
 │   └── ...
 │
-├── Notes for me and students/
+├── Project Technical Notes
 │   └── ...
 │
-├── Daily Notes Starting 6.4/
+├── Daily Personal Notes
 │   └── ...
 │
 └── .obsidian/
